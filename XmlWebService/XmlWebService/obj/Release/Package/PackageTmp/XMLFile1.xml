@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <name>log23</name>
+  <data>
+    <row>
+      <timestamp type="datetime">2014-07-01T09:30:10Z</timestamp>
+      <message type="string">First message</message>
+    </row>
+    <row>
+      <timestamp type="datetime">2014-07-01T09:35:15Z</timestamp>
+      <message type="string">Second message</message>
+    </row>
+  </data>
+  <name>base23</name>
+  <data>
+    <row>
+      <timestamp type="datetime">2014-07-01T09:30:10Z</timestamp>
+      <message type="string">First message</message>
+    </row>
+    <row>
+      <timestamp type="datetime">2014-07-01T09:35:15Z</timestamp>
+      <message type="string">Second message</message>
+    </row>
+    <row>
+      <age type="string">2014-07-01T09:35:15Z</age>
+      <name type="string">Second message</name>
+    </row>
+    <row>
+      <bash type="datetime">2014-07-01T09:35:15Z</bash>
+      <noname type="string">Second message</noname>
+    </row>
+    <row>
+      <baseh type="datetime">2014-07-01T09:35:15Z</baseh>
+      <noname type="string">Second message</noname>
+    </row>
+  </data>
+</root>

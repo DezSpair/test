@@ -1,0 +1,5 @@
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\bin\Release\XmlWebService.Contracts.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\bin\Release\XmlWebService.Contracts.pdb
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\obj\Release\XmlWebService.Contracts.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\obj\Release\XmlWebService.Contracts.pdb
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\obj\Release\XmlWebService.Contracts.csprojResolveAssemblyReference.cache

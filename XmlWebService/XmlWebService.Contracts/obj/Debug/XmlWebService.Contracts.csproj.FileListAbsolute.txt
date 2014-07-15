@@ -1,0 +1,4 @@
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\bin\Debug\XmlWebService.Contracts.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\bin\Debug\XmlWebService.Contracts.pdb
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\obj\Debug\XmlWebService.Contracts.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Contracts\obj\Debug\XmlWebService.Contracts.pdb

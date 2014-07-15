@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlWebService", "XmlWebService\XmlWebService.csproj", "{27033242-6BF2-46A4-B705-D4B5D945C507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlWebService.BLL", "XmlWebService.BLL\XmlWebService.BLL.csproj", "{57ADB2E5-8899-4632-A2DE-6097649F8472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlWebService.Contracts", "XmlWebService.Contracts\XmlWebService.Contracts.csproj", "{1B8FDF4A-0534-48DA-8B4A-501DEF2782AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlWebService.Data", "XmlWebService.Data\XmlWebService.Data.csproj", "{24E00712-2B84-4D73-B14D-00484FCAB59F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{EF44D7F2-D1D0-4B3F-B9E8-34D60E1409CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27033242-6BF2-46A4-B705-D4B5D945C507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27033242-6BF2-46A4-B705-D4B5D945C507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27033242-6BF2-46A4-B705-D4B5D945C507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27033242-6BF2-46A4-B705-D4B5D945C507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57ADB2E5-8899-4632-A2DE-6097649F8472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ADB2E5-8899-4632-A2DE-6097649F8472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ADB2E5-8899-4632-A2DE-6097649F8472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ADB2E5-8899-4632-A2DE-6097649F8472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8FDF4A-0534-48DA-8B4A-501DEF2782AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8FDF4A-0534-48DA-8B4A-501DEF2782AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8FDF4A-0534-48DA-8B4A-501DEF2782AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8FDF4A-0534-48DA-8B4A-501DEF2782AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E00712-2B84-4D73-B14D-00484FCAB59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E00712-2B84-4D73-B14D-00484FCAB59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E00712-2B84-4D73-B14D-00484FCAB59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E00712-2B84-4D73-B14D-00484FCAB59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF44D7F2-D1D0-4B3F-B9E8-34D60E1409CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF44D7F2-D1D0-4B3F-B9E8-34D60E1409CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF44D7F2-D1D0-4B3F-B9E8-34D60E1409CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF44D7F2-D1D0-4B3F-B9E8-34D60E1409CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

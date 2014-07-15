@@ -1,0 +1,11 @@
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\bin\Release\x64\SQLite.Interop.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\bin\Release\x86\SQLite.Interop.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\bin\Release\XmlWebService.Data.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\bin\Release\XmlWebService.Data.pdb
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\bin\Release\System.Data.SQLite.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\bin\Release\XmlWebService.Contracts.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\bin\Release\XmlWebService.Contracts.pdb
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\bin\Release\System.Data.SQLite.xml
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\obj\Release\XmlWebService.Data.csprojResolveAssemblyReference.cache
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\obj\Release\XmlWebService.Data.dll
+D:\proj\XmlWebService\XmlWebService\XmlWebService.Data\obj\Release\XmlWebService.Data.pdb
